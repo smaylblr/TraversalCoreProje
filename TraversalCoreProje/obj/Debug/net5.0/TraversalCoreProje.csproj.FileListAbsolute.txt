@@ -165,3 +165,5 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_FooterPartial.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_SliderPartial\Default.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_Statistics\Default.cshtml.g.cs
