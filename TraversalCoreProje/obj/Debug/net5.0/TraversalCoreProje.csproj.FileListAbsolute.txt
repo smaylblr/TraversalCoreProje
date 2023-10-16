@@ -170,3 +170,5 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\ref\TraversalCoreProje.dll
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_Testimonial\Default.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs

@@ -28,7 +28,7 @@ namespace BusinessLayer.Concrete
             throw new NotImplementedException();
         }
 
-        public Testimonial TgetByID(int id)
+        public Testimonial TGetByID(int id)
         {
             throw new NotImplementedException();
         }

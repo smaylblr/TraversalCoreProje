@@ -28,7 +28,7 @@ namespace BusinessLayer.Concrete
             throw new NotImplementedException();
         }
 
-        public SubAbout TgetByID(int id)
+        public SubAbout TGetByID(int id)
         {
             throw new NotImplementedException();
         }
