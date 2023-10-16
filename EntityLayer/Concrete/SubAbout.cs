@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace EntityLayer.Concrete
 {
-    public class SabAbout
+    public class SubAbout
     {
         [Key]
-        public int SabAbboutID { get; set; }
+        public int SubAbboutID { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
     }
