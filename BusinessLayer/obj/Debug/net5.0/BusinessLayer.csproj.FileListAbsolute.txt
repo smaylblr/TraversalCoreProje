@@ -1,8 +1,3 @@
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.json
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\BusinessLayer.runtimeconfig.dev.json
@@ -12,6 +7,11 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Deb
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll

@@ -3,10 +3,12 @@
 @{
     ViewData["Title"] = "DestinationDetails";
     Layout = "~/Views/Shared/_UILayout.cshtml";
+
 }
 
 <!doctype html>
 <html lang="zxx">
+
 
 <head>
     <!-- Required meta tags -->
@@ -179,7 +181,7 @@
                     </div>
                     <!--//author-card-->
 
-                    @await Component.InvokeAsync("_CommentList");
+                    @await Component.InvokeAsync("_CommentList",new {id=ViewBag.i});
 
                     @await Component.InvokeAsync("_AddComment");
 
