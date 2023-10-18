@@ -179,3 +179,5 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.pdb
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.genruntimeconfig.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\ref\TraversalCoreProje.dll
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
