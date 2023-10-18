@@ -142,6 +142,7 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.TagHelpers.input.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.TagHelpers.output.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.RazorCoreGenerate.cache
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\DefaultController1\Index.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Destination\DestinationDetails.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Destination\Index.cshtml.g.cs
@@ -151,7 +152,6 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_HeaderPartial.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_NavbarPatial.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\LayoutPartial\_ScriptsPartial.cshtml.g.cs
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_AddComment\Default.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_CommentList\Default.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_Feature\Default.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\Components\_PopularDestinations\Default.cshtml.g.cs
@@ -174,4 +174,3 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.pdb
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\TraversalCoreProje.genruntimeconfig.cache
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\ref\TraversalCoreProje.dll
-C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Comment\AddComment.cshtml.g.cs
