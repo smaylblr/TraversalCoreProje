@@ -181,3 +181,7 @@ C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\ob
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\ref\TraversalCoreProje.dll
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Login\SignUp.cshtml.g.cs
 C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Login\SignIn.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\Shared\_UserLayout.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Areas\Member\Views\Comment\Index.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_HeaderPartial.cshtml.g.cs
+C:\Users\ismai\Desktop\Traversal Travel\TraversalCoreProje\TraversalCoreProje\obj\Debug\net5.0\Razor\Views\MemberLayoutPartial\_NavbarPartial.cshtml.g.cs
