@@ -391,10 +391,7 @@ namespace DataAccessLayer.Migrations
                     b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("DestinationID")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<int?>("DestinationID1")
+                    b.Property<int>("DestinationID")
                         .HasColumnType("int");
 
                     b.Property<string>("PersonCount")
@@ -410,7 +407,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasIndex("AppUserId");
 
-                    b.HasIndex("DestinationID1");
+                    b.HasIndex("DestinationID");
 
                     b.ToTable("Reservations");
                 });
@@ -579,7 +576,9 @@ namespace DataAccessLayer.Migrations
 
                     b.HasOne("EntityLayer.Concrete.Destination", "Destination")
                         .WithMany("Reservations")
-                        .HasForeignKey("DestinationID1");
+                        .HasForeignKey("DestinationID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("AppUser");
 
