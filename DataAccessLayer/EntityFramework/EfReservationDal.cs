@@ -1,6 +1,8 @@
 ﻿using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete;
 using DataAccessLayer.Repository;
 using EntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +13,23 @@ namespace DataAccessLayer.EntityFramework
 {
     public class EfReservationDal : GenericRepository<Reservation>, IReservationDal
     {
+        public List<Reservation> GetListWithReservationByAccepted(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Reservation> GetListWithReservationByPrevious(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Reservation> GetListWithReservationByWaitAprroval(int id)
+        {
+            throw new NotImplementedException();
+            //using(var context=new Context())
+            //  {
+            //      return context.Reservations.Include(x=>x.)
+            //  }
+        }
     }
 }

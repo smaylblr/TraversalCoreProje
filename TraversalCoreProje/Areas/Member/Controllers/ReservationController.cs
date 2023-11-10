@@ -57,7 +57,7 @@ namespace TraversalCoreProje.Areas.Member.Controllers
         [HttpPost]
         public IActionResult NewReservation(Reservation p)
         {
-            //p.AppUserId = 4;
+            p.AppUserId = 4;
             p.Status = "Onay Bekliyor";
             reservationManager.TAdd(p);
 
